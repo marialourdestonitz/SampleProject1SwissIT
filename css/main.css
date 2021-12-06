@@ -1,4 +1,4 @@
-.main-header {
+.main-header  {
   background: url(../img/background.jpg);
   min-height: 600px;
   background-position: center;
@@ -57,3 +57,7 @@
 padding-top: 50px;
 }
 
+.btn-extend {
+  display: block;
+  width: 100%;
+}
